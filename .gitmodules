@@ -1,3 +1,6 @@
 [submodule "LiteratureReview"]
 	path = LiteratureReview
 url=https://rikkimax@github.com/rikkimax/Lin-Hnr-Dissertation-LiteratureReview.git
+[submodule "Code"]
+	path = Code
+	url = https://github.com/rikkimax/Lin-Hnr-Dissertation-Code.git
