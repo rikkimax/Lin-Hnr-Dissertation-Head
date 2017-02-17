@@ -6,3 +6,4 @@ The following articles are meant to be in the form of a blog article. These can 
 * [Route definition](whatIsARoute.md)
 * [Character encoding of requests](encoding.md)
 * [Hostname wildcards](hostnames.md)
+* [Implementations](implementations.md)
